@@ -33,7 +33,7 @@ const Purushottam = {
     backend: ["Node.js", "Express.js", "Flask"],
     mobile: ["Flutter"],
 
-    database: ["MongoDB", "MySQL"],
+    database: ["MongoDB", "MySQL","Redis"],
     currently: "Learning DevOps",
     contact: "patilpurushottam775@gmail.com"
 };
@@ -81,6 +81,10 @@ const Purushottam = {
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" alt="MongoDB" />
 <br>MongoDB
+</td>
+  <td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=redis" width="55" height="55" alt="Redis" />
+<br>Redis
 </td>
 </tr>
 <tr>
